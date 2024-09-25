@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "aufgabe_02",
+			"path": "aufgabe_02"
+		},
+		{
+			"name": "aufgabe_01",
+			"path": "aufgabe_01"
+		},
+		{
+			"path": "../GIP-prakt-05"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}

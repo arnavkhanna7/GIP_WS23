@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "AUFGABE_02",
+			"path": "."
+		},
+		{
+			"path": "../../aufgabe_01"
+		}
+	],
+	"settings": {}
+}
